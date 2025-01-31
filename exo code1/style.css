@@ -1,0 +1,124 @@
+header{
+    text-align:end;
+    margin-top: -50px;
+}
+.header-a{
+    color: black;
+   margin: 10px;
+   margin-top: -50px;
+   transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.section{
+    background-color: rgb(41, 41, 90);
+    width: 2321px;
+    height: 700px;
+    color: white;
+    margin-top: 10px;
+}
+.bottum{
+    text-decoration: none;
+}
+.head{
+margin: 10px ;
+color: white;
+text-decoration: none;
+}
+#flex{
+    display: flex;
+}
+.conteneur{
+    justify-content: center;
+    margin-top: 50px;
+    margin-left:5px;
+    
+}
+.h2{
+    text-align: center;
+    margin-bottom:-23px;
+    margin-top: 25px;
+}
+.box{
+    margin: 5px;;
+
+}
+.head-h1{
+    font-size: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: -600px 0 -30px 500px;
+    color: #b1baea;
+    line-height:19px;
+}
+.h4{
+    margin:60px 0 0 500px;
+    color: #c3c9e1;
+    line-height:15px;
+}
+.h3{
+    margin: 20px 0 0 500px;
+    background-color: rgb(183, 183, 209);
+    border: #b1baea 1px ;
+    border-radius: 30px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+}
+.img{
+    width: 400px;
+    height: 500px;
+    margin: 70px 500px 200px 1300px ; 
+}
+.div-h1{
+    margin:10px 0 0 700px;
+    color: rgb(194, 194, 214);
+}
+.head-h2{
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 10px 0 -30px 500px;
+    color: #b1baea;
+  
+}
+.h3-a{
+    margin: 30px 0 0 500px;
+    background:linear-gradient(#293364,#b1baea);
+    border: #b1baea 1px ;
+    border-radius: 30px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    align-content: center;
+    color: rgb(213, 214, 227);
+    text-decoration:none;
+}
+.apropos{
+    padding: 40px 30px 20px 0px;
+    font-size: 25px;
+}
+.div-p{
+    line-height:10px;
+}
+.portfolio{
+    background-color:rgb(41, 41, 90) ;
+    width: 2321px;
+    height: 100px;
+    margin-top: 10px;
+    padding:40px 30px 0px 50px;
+    color: rgb(156, 174, 233);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    text-decoration:none;
+    
+}
+.box{
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(63, 12, 201, 0.2);
+  }
+  .header-a:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(55, 6, 230, 0.2);
+  }
+  

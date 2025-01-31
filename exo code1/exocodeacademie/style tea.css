@@ -1,0 +1,123 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.6;
+    font-size: 22px;
+}
+.header-a{
+ color: white;  
+ margin: 10px;
+ text-decoration: underline;
+
+}
+header{
+    border-bottom: 0px solid seashell;
+    text-align:center;
+    position: fixed;
+   right:0px;
+ top: 30px;
+
+}
+#flex{
+    display:flex;
+}
+.box{
+    background-color: rgb(0, 0, 0);
+    
+}
+.box-n{
+    height: 300px;
+    width: 300px;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 40px;
+    background-color: black;
+    justify-content: center;
+    text-align:center;
+}
+.back{
+    background-image: url(img-locations-background.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+   
+
+}
+.box-a{
+   height: 200px;
+   justify-content: center;
+    text-align: center;
+}
+.title{
+    opacity: 0.9;
+    color: seashell;
+    margin: 10px;
+    width: auto;
+    height: 50px;
+}
+.conteneur{
+    justify-content: center;
+    margin-top: 90px;
+}
+.flex-container{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+.conteneur-2{
+    justify-content: center;
+    margin-top:10px;
+
+}
+footer{
+    text-align: center;
+}
+.div-p{
+text-align: center;
+}
+.mission-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-image: url(img-mission-background.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat;
+    height:700px;
+    color:seashell;
+    padding: 10px;;
+}
+.mission-h{
+    background-color: black;
+    width: 100%;
+    height:100px;
+    padding: 10PX;
+    position: relative;
+    top: -20px;
+}
+.div-h{
+    margin-top:-2px;
+}
+.mission-h h2{
+    margin-top: -10px;
+}
+.tea{
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: -50px;
+}
+.link a:hover{
+     color: rgb(77, 65, 44);
+    text-shadow: 0 0 10px rgb(142, 114, 72);
+}
+
+
+
+
+
+
